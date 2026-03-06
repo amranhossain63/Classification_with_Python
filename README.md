@@ -4,7 +4,7 @@ Its the final project on  IBM Machine Learning with Python course at Coursera. I
 
 
 
-#### The classification algorithms
+### The classification algorithms
 
 - K Nearest Neighbor(KNN)
 - Decision Tree
